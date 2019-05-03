@@ -1,4 +1,4 @@
-2019 note: The whole premise of this program may be obsolete based on a change announced by Slack at [https://twitter.com/Carlos_Frias/status/1124317849630146564](https://twitter.com/Carlos_Frias/status/1124317849630146564). Think carefully about whether blowing up your security model is the correct approach.
+2019 note: The whole premise of this program may be obsolete based on a change announced by Slack at [https://api.slack.com/changelog/2019-03-wild-west-for-files-no-more](https://api.slack.com/changelog/2019-03-wild-west-for-files-no-more). Think carefully about whether blowing up your security model is the correct approach.
 
 
 Slack Pruner
